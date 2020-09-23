@@ -1,0 +1,440 @@
+EVENTNUM,EVENTMSGTYPE,HOMEDESCRIPTION,VISITORDESCRIPTION,TEAM
+0,12,,,
+1,10,Jump Ball Valanciunas vs. Gasol: Tip to DeRozan,,TOR
+2,1,Scola  3PT Jump Shot (3 PTS) (DeRozan 1 AST),,TOR
+3,5,,Butler Out of Bounds - Bad Pass Turnover Turnover (P1.T1),CHI
+4,2,MISS Valanciunas 2' Reverse Layup,Gasol BLOCK (1 BLK),TOR
+5,4,,Gasol REBOUND (Off:0 Def:1),CHI
+6,2,,MISS Gasol 18' Step Back Jump Shot,CHI
+7,4,Valanciunas REBOUND (Off:0 Def:1),,TOR
+8,1,Carroll 2' Driving Finger Roll Layup (2 PTS),,TOR
+9,1,,Gasol 19' Jump Shot (2 PTS) (Butler 1 AST),CHI
+10,2,MISS Lowry 12' Turnaround Jump Shot,,TOR
+11,4,,Butler REBOUND (Off:0 Def:1),CHI
+12,5,Scola STEAL (1 STL),Butler Lost Ball Turnover (P2.T2),CHI
+13,1,Scola 7' Driving Floating Jump Shot (5 PTS),,TOR
+14,1,,Hinrich 24' 3PT Jump Shot (3 PTS) (Gibson 1 AST),CHI
+16,2,MISS Lowry 20' Pullup Jump Shot,,TOR
+17,4,,Gasol REBOUND (Off:0 Def:2),CHI
+18,1,,Mirotic 9' Turnaround Fadeaway (2 PTS) (Gasol 1 AST),CHI
+19,1,DeRozan 25' 3PT Jump Shot (3 PTS) (Lowry 1 AST),,TOR
+20,2,,MISS Gasol 19' Jump Shot,CHI
+21,4,Lowry REBOUND (Off:0 Def:1),,TOR
+22,5,Valanciunas Lost Ball Turnover (P1.T1),Hinrich STEAL (1 STL),TOR
+23,1,,Hinrich 24' 3PT Running Pull-Up Jump Shot (6 PTS),CHI
+24,2,MISS Lowry 15' Turnaround Fadeaway Shot,,TOR
+25,4,,Mirotic REBOUND (Off:0 Def:1),CHI
+26,1,,Mirotic 26' 3PT Jump Shot (5 PTS) (Hinrich 1 AST),CHI
+27,2,MISS DeRozan 16' Turnaround Fadeaway Shot,,TOR
+28,4,,Gasol REBOUND (Off:0 Def:3),CHI
+30,2,,MISS Gasol 18' Jump Shot,CHI
+31,4,Valanciunas REBOUND (Off:0 Def:2),,TOR
+32,2,MISS DeRozan 7' Driving Floating Jump Shot,,TOR
+33,4,,Bulls Rebound,
+34,6,Valanciunas L.B.FOUL (P1.T1) (G.Petraitis),,TOR
+35,1,,Gasol 4' Driving Hook Shot (4 PTS),CHI
+36,2,MISS Scola 20' Jump Shot,,TOR
+37,4,,Butler REBOUND (Off:0 Def:2),CHI
+38,2,,MISS Butler 5' Driving Floating Bank Jump Shot,CHI
+39,4,,Mirotic REBOUND (Off:1 Def:1),CHI
+40,1,,Butler 3' Alley Oop Layup (2 PTS) (Hinrich 2 AST),CHI
+41,9,RAPTORS Timeout: Regular (Full 1 Short 0),,
+45,1,DeRozan  3PT Jump Shot (6 PTS) (Lowry 2 AST),,TOR
+46,2,,MISS Mirotic 21' Pullup Jump Shot,CHI
+47,4,Lowry REBOUND (Off:0 Def:2),,TOR
+48,2,MISS Lowry 24' 3PT Running Pull-Up Jump Shot,,TOR
+49,4,Valanciunas REBOUND (Off:1 Def:2),,TOR
+50,1,Carroll 24' 3PT Jump Shot (5 PTS) (Valanciunas 1 AST),,TOR
+51,5,,Gasol Out of Bounds - Bad Pass Turnover Turnover (P1.T3),CHI
+52,1,Valanciunas 19' Jump Shot (2 PTS) (Lowry 3 AST),,TOR
+54,9,,Bulls Timeout: Regular (Reg.1 Short 0),
+55,8,SUB: Patterson FOR Carroll,,TOR
+56,8,SUB: Ross FOR Scola,,TOR
+57,8,,SUB: Snell FOR Gibson,CHI
+58,8,,SUB: Brooks FOR Hinrich,CHI
+59,5,Valanciunas STEAL (1 STL),Gasol Bad Pass Turnover (P2.T4),CHI
+60,2,MISS DeRozan  3PT Jump Shot,,TOR
+61,4,Valanciunas REBOUND (Off:2 Def:2),,TOR
+62,1,Valanciunas 2' Driving Finger Roll Layup (4 PTS),,TOR
+63,1,,Snell 24' 3PT Jump Shot (3 PTS) (Gasol 2 AST),CHI
+65,6,,Mirotic S.FOUL (P1.T1) (G.Petraitis),CHI
+66,3,DeRozan Free Throw 1 of 2 (7 PTS),,TOR
+68,8,SUB: Joseph FOR Lowry,,TOR
+69,3,DeRozan Free Throw 2 of 2 (8 PTS),,TOR
+71,2,Patterson BLOCK (1 BLK),MISS Mirotic 13' Driving Floating Jump Shot,CHI
+72,4,Joseph REBOUND (Off:0 Def:1),,TOR
+73,1,DeRozan 7' Floating Jump Shot (10 PTS),,TOR
+74,6,,Brooks S.FOUL (P1.T2) (N.Buchert),CHI
+75,8,,SUB: Portis FOR Mirotic,CHI
+76,8,SUB: Biyombo FOR Valanciunas,,TOR
+77,3,MISS DeRozan Free Throw 1 of 1,,TOR
+79,4,,Portis REBOUND (Off:0 Def:1),CHI
+81,6,Biyombo P.FOUL (P1.T2) (N.Buchert),,TOR
+82,1,,Gasol 9' Turnaround Fadeaway (6 PTS),CHI
+83,1,Patterson 15' Step Back Jump Shot (2 PTS),,TOR
+84,2,,MISS Butler 3' Driving Hook Shot,CHI
+85,4,,Gasol REBOUND (Off:1 Def:3),CHI
+86,1,,Gasol 1' Putback Layup (8 PTS),CHI
+87,2,MISS DeRozan 5' Floating Jump Shot,,TOR
+88,4,Biyombo REBOUND (Off:1 Def:0),,TOR
+89,2,MISS Patterson 9' Pullup Jump Shot,,TOR
+90,4,,Brooks REBOUND (Off:0 Def:1),CHI
+91,1,,Portis 1' Cutting Layup Shot (2 PTS) (Brooks 1 AST),CHI
+92,5,Biyombo Double Dribble Turnover (P1.T2),,TOR
+94,2,,MISS Gasol 21' Jump Shot,CHI
+95,4,Patterson REBOUND (Off:0 Def:1),,TOR
+96,2,MISS DeRozan 20' Pullup Jump Shot,,TOR
+97,4,,Gasol REBOUND (Off:1 Def:4),CHI
+98,13,,,
+100,12,,,
+101,2,,MISS Brooks 18' Pullup Jump Shot,CHI
+102,4,Biyombo REBOUND (Off:1 Def:1),,TOR
+103,2,MISS Ross  3PT Turnaround Jump Shot,,TOR
+104,4,,Portis REBOUND (Off:0 Def:2),CHI
+105,1,,Gibson 9' Fadeaway Jumper (2 PTS) (Brooks 2 AST),CHI
+106,6,,Snell P.FOUL (P1.T1) (R.Garretson),CHI
+107,2,MISS Ross 19' Pullup Jump Shot,,TOR
+108,4,,Snell REBOUND (Off:0 Def:1),CHI
+109,2,,MISS Snell 19' Pullup Jump Shot,CHI
+110,4,,Gibson REBOUND (Off:1 Def:0),CHI
+111,2,,MISS McDermott 25' 3PT Jump Shot,CHI
+112,4,Patterson REBOUND (Off:0 Def:2),,TOR
+113,1,Joseph 20' Pullup Jump Shot (2 PTS),,TOR
+114,5,,Gibson Bad Pass Turnover (P1.T5),CHI
+115,2,MISS Lowry 25' 3PT Jump Shot,,TOR
+116,4,,Portis REBOUND (Off:0 Def:3),CHI
+117,2,,MISS Brooks 2' Driving Reverse Layup,CHI
+118,4,Patterson REBOUND (Off:0 Def:3),,TOR
+119,1,Biyombo  Dunk (2 PTS) (Joseph 1 AST),,TOR
+120,1,,Brooks 24' 3PT Jump Shot (3 PTS) (Gibson 2 AST),CHI
+121,6,,Brooks S.FOUL (P2.T2) (R.Garretson),CHI
+122,3,Joseph Free Throw 1 of 2 (3 PTS),,TOR
+124,3,Joseph Free Throw 2 of 2 (4 PTS),,TOR
+126,6,Joseph P.FOUL (P1.T1) (N.Buchert),,TOR
+127,2,,MISS Portis 24' 3PT Jump Shot,CHI
+128,4,,Gibson REBOUND (Off:2 Def:0),CHI
+129,2,,MISS McDermott 16' Floating Jump Shot,CHI
+130,4,Lowry REBOUND (Off:0 Def:3),,TOR
+131,1,Lowry  3PT Jump Shot (3 PTS),,TOR
+133,6,,McDermott OFF.Foul (P1) (R.Garretson),CHI
+134,5,,McDermott Foul Turnover (P1.T6),CHI
+135,9,,,
+138,5,Lowry Step Out of Bounds Turnover (P1.T3),,TOR
+139,1,,Brooks 1' Driving Layup (5 PTS),CHI
+140,2,MISS Ross 20' Pullup Jump Shot,,TOR
+141,4,Joseph REBOUND (Off:1 Def:1),,TOR
+142,1,Lowry 25' 3PT Jump Shot (6 PTS) (Joseph 2 AST),,TOR
+143,5,Ross STEAL (1 STL),Brooks Lost Ball Turnover (P1.T7),CHI
+144,1,Patterson 9' Driving Floating Bank Jump Shot (4 PTS) (Lowry 4 AST),,TOR
+145,9,,Bulls Timeout: Regular (Reg.2 Short 0),
+147,8,,SUB: Moore FOR Snell,CHI
+148,8,,SUB: Butler FOR McDermott,CHI
+149,2,,MISS Portis 6' Driving Hook Shot,CHI
+150,4,Patterson REBOUND (Off:0 Def:4),,TOR
+151,2,MISS Patterson 24' 3PT Jump Shot,,TOR
+152,4,,Brooks REBOUND (Off:0 Def:2),CHI
+153,1,,Gibson 15' Jump Shot (4 PTS) (Portis 1 AST),CHI
+154,1,Joseph 2' Driving Layup (6 PTS),,TOR
+155,2,,MISS Brooks 25' 3PT Jump Shot,CHI
+156,4,Biyombo REBOUND (Off:1 Def:2),,TOR
+159,2,MISS Joseph 2' Driving Layup,Gibson BLOCK (1 BLK),TOR
+160,4,Biyombo REBOUND (Off:2 Def:2),,TOR
+161,6,,Portis P.FOUL (P1.T3) (R.Garretson),CHI
+162,8,SUB: Carroll FOR Ross,,TOR
+163,8,SUB: DeRozan FOR Joseph,,TOR
+164,8,,SUB: Hinrich FOR Brooks,CHI
+165,8,,SUB: Mirotic FOR Portis,CHI
+166,1,DeRozan 2' Driving Layup (12 PTS),,TOR
+167,1,,Mirotic 24' 3PT Jump Shot (8 PTS) (Gibson 3 AST),CHI
+168,1,Biyombo 1' Layup (4 PTS) (Lowry 5 AST),,TOR
+170,5,Lowry STEAL (1 STL),Mirotic Lost Ball Turnover (P1.T8),CHI
+171,1,Carroll 2' Running Layup (7 PTS) (Lowry 6 AST),,TOR
+173,9,,Bulls Timeout: Short (Reg.2 Short 1),
+174,8,SUB: Valanciunas FOR Biyombo,,TOR
+176,8,,SUB: Gasol FOR Gibson,CHI
+177,8,,SUB: McDermott FOR Butler,CHI
+179,2,,MISS Moore 15' Pullup Jump Shot,CHI
+180,4,Lowry REBOUND (Off:0 Def:4),,TOR
+181,5,Lowry Lost Ball Turnover (P2.T4),Moore STEAL (1 STL),TOR
+182,2,,MISS McDermott  3PT Jump Shot,CHI
+183,4,Carroll REBOUND (Off:0 Def:1),,TOR
+184,6,,McDermott S.FOUL (P2.T4) (N.Buchert),CHI
+185,3,MISS Lowry Free Throw 1 of 3,,TOR
+186,4,RAPTORS Rebound,,
+187,3,Lowry Free Throw 2 of 3 (7 PTS),,TOR
+189,8,SUB: Scola FOR Patterson,,TOR
+190,3,Lowry Free Throw 3 of 3 (8 PTS),,TOR
+192,6,Carroll S.FOUL (P1.T2) (N.Buchert),,TOR
+193,3,,Mirotic Free Throw 1 of 2 (9 PTS),CHI
+195,3,,Mirotic Free Throw 2 of 2 (10 PTS),CHI
+197,2,MISS DeRozan 26' 3PT Jump Shot,,TOR
+198,4,RAPTORS Rebound,,
+199,5,RAPTORS Turnover: Shot Clock (T#5),,
+201,1,,Gasol 19' Jump Shot (10 PTS) (Hinrich 3 AST),CHI
+202,1,Scola 2' Driving Layup (7 PTS) (Lowry 7 AST),,TOR
+203,1,,Moore 2' Driving Layup (2 PTS) (Gasol 3 AST),CHI
+204,9,RAPTORS Timeout: Regular (Full 2 Short 0),,
+206,8,SUB: Joseph FOR Lowry,,TOR
+208,2,MISS DeRozan 20' Pullup Jump Shot,,TOR
+209,4,,Hinrich REBOUND (Off:0 Def:1),CHI
+210,2,Valanciunas BLOCK (1 BLK),MISS Moore 5' Driving Hook Shot,CHI
+211,4,RAPTORS Rebound,,
+212,1,Joseph 25' 3PT Jump Shot (9 PTS) (DeRozan 2 AST),,TOR
+213,6,Scola S.FOUL (P1.T3) (N.Buchert),,TOR
+214,3,,Mirotic Free Throw 1 of 2 (11 PTS),CHI
+216,3,,Mirotic Free Throw 2 of 2 (12 PTS),CHI
+219,2,MISS DeRozan 8' Driving Floating Jump Shot,,TOR
+220,4,DeRozan REBOUND (Off:1 Def:0),,TOR
+221,1,DeRozan 2' Putback Layup (14 PTS),,TOR
+222,2,Valanciunas BLOCK (2 BLK),MISS Gasol 9' Turnaround Hook Shot,CHI
+223,4,,Hinrich REBOUND (Off:1 Def:1),CHI
+224,2,,MISS Hinrich 24' 3PT Jump Shot,CHI
+225,4,Valanciunas REBOUND (Off:2 Def:3),,TOR
+226,1,DeRozan 15' Pullup Jump Shot (16 PTS) (Joseph 3 AST),,TOR
+227,6,,Hinrich S.FOUL (P1.PN) (R.Garretson),CHI
+228,3,DeRozan Free Throw 1 of 1 (17 PTS),,TOR
+231,2,,MISS Gasol 1' Driving Floating Jump Shot,CHI
+232,4,,Bulls Rebound,
+233,6,Scola L.B.FOUL (P2.PN) (R.Garretson),,TOR
+234,3,,Gasol Free Throw 1 of 2 (11 PTS),CHI
+236,8,,SUB: Snell FOR McDermott,CHI
+237,3,,Gasol Free Throw 2 of 2 (12 PTS),CHI
+240,5,Valanciunas Offensive Goaltending Turnover (P2.T6),,TOR
+241,8,,SUB: McDermott FOR Moore,CHI
+242,8,,SUB: Butler FOR Snell,CHI
+243,2,,MISS Butler 20' Step Back Jump Shot,CHI
+244,4,,Bulls Rebound,
+245,13,,,
+247,12,,,
+248,1,,Butler 2' Driving Layup (4 PTS),CHI
+249,2,MISS Scola 6' Floating Jump Shot,,TOR
+250,4,Scola REBOUND (Off:1 Def:0),,TOR
+251,2,MISS Scola 3' Jump Shot,Gasol BLOCK (2 BLK),TOR
+252,4,Scola REBOUND (Off:2 Def:0),,TOR
+253,2,MISS Lowry 24' 3PT Jump Shot,,TOR
+254,4,,Gibson REBOUND (Off:2 Def:1),CHI
+255,2,Valanciunas BLOCK (3 BLK),MISS Gasol 10' Turnaround Fadeaway Shot,CHI
+256,4,,Bulls Rebound,
+257,2,,MISS Gasol 15' Fadeaway Jumper,CHI
+258,4,Valanciunas REBOUND (Off:2 Def:4),,TOR
+259,6,,Mirotic S.FOUL (P2.T1) (G.Petraitis),CHI
+260,3,DeRozan Free Throw 1 of 2 (18 PTS),,TOR
+262,3,DeRozan Free Throw 2 of 2 (19 PTS),,TOR
+264,1,,Gasol 16' Jump Shot (14 PTS) (Butler 2 AST),CHI
+265,1,Lowry 24' 3PT Jump Shot (11 PTS) (Scola 1 AST),,TOR
+266,1,,Butler 2' Driving Floating Bank Jump Shot (6 PTS),CHI
+267,1,Scola 3' Turnaround Bank Shot (9 PTS),,TOR
+268,1,,Butler 16' Pullup Jump Shot (8 PTS) (Gasol 4 AST),CHI
+269,2,MISS Scola 1' Driving Layup,,TOR
+270,4,,Gasol REBOUND (Off:1 Def:5),CHI
+271,1,,Hinrich 18' Running Pull-Up Jump Shot (8 PTS),CHI
+272,2,MISS Carroll 25' 3PT Jump Shot,,TOR
+273,4,Scola REBOUND (Off:3 Def:0),,TOR
+274,1,Scola 6' Jump Shot (11 PTS),,TOR
+275,6,,Butler S.FOUL (P1.T2) (N.Buchert),CHI
+276,3,Scola Free Throw 1 of 1 (12 PTS),,TOR
+279,6,DeRozan S.FOUL (P1.T1) (R.Garretson),,TOR
+280,3,,Butler Free Throw 1 of 2 (9 PTS),CHI
+282,3,,Butler Free Throw 2 of 2 (10 PTS),CHI
+284,1,Carroll 25' 3PT Jump Shot (10 PTS) (Lowry 8 AST),,TOR
+285,1,,Butler 14' Turnaround Fadeaway (12 PTS),CHI
+286,1,DeRozan  3PT Jump Shot (22 PTS) (Lowry 9 AST),,TOR
+287,2,,MISS Gasol 19' Jump Shot,CHI
+288,4,Carroll REBOUND (Off:0 Def:2),,TOR
+289,2,MISS Lowry 24' 3PT Jump Shot,,TOR
+290,4,Valanciunas REBOUND (Off:3 Def:4),,TOR
+291,2,MISS Valanciunas 2' Putback Layup,Butler BLOCK (1 BLK),TOR
+292,4,,Gasol REBOUND (Off:1 Def:6),CHI
+293,2,,MISS Mirotic 25' 3PT Jump Shot,CHI
+294,4,DeRozan REBOUND (Off:1 Def:1),,TOR
+296,2,MISS Carroll 7' Driving Floating Jump Shot,,TOR
+297,4,,Gasol REBOUND (Off:1 Def:7),CHI
+298,2,,MISS Mirotic 25' 3PT Jump Shot,CHI
+299,4,Valanciunas REBOUND (Off:3 Def:5),,TOR
+300,6,,Hinrich S.FOUL (P2.T3) (R.Garretson),CHI
+301,3,MISS Scola Free Throw 1 of 2,,TOR
+302,4,RAPTORS Rebound,,
+303,8,,SUB: Snell FOR Mirotic,CHI
+304,3,Scola Free Throw 2 of 2 (13 PTS),,TOR
+306,1,,Butler 7' Driving Floating Bank Jump Shot (14 PTS),CHI
+307,2,MISS Carroll 25' 3PT Jump Shot,,TOR
+308,4,,Gasol REBOUND (Off:1 Def:8),CHI
+309,1,,Gibson  Dunk (6 PTS) (Hinrich 4 AST),CHI
+310,9,RAPTORS Timeout: Regular (Full 3 Short 0),,
+312,8,SUB: Biyombo FOR Valanciunas,,TOR
+313,8,,SUB: Portis FOR Gibson,CHI
+314,2,MISS Lowry 8' Driving Bank Hook Shot,,TOR
+315,4,,Portis REBOUND (Off:0 Def:4),CHI
+316,6,Biyombo S.FOUL (P2.T2) (G.Petraitis),,TOR
+317,3,,Butler Free Throw 1 of 2 (15 PTS),CHI
+319,3,,Butler Free Throw 2 of 2 (16 PTS),CHI
+321,1,Lowry 3' Driving Hook Shot (13 PTS),,TOR
+322,2,,MISS Snell 24' 3PT Jump Shot,CHI
+323,4,,Bulls Rebound,
+324,8,SUB: Joseph FOR Carroll,,TOR
+325,6,Biyombo S.FOUL (P3.T3) (G.Petraitis),,TOR
+326,3,,Gasol Free Throw 1 of 2 (15 PTS),CHI
+328,8,,SUB: Brooks FOR Hinrich,CHI
+329,8,SUB: Patterson FOR Scola,,TOR
+330,3,,Gasol Free Throw 2 of 2 (16 PTS),CHI
+333,5,Lowry Bad Pass Turnover (P3.T7),Butler STEAL (1 STL),TOR
+334,2,,MISS Butler 3' Jump Bank Shot,CHI
+335,4,RAPTORS Rebound,,
+336,6,,Portis L.B.FOUL (P2.T4) (N.Buchert),CHI
+337,2,MISS Lowry 24' 3PT Jump Shot,,TOR
+338,4,,Gasol REBOUND (Off:1 Def:9),CHI
+339,1,,Butler 3' Layup (18 PTS),CHI
+340,6,Biyombo S.FOUL (P4.T4) (N.Buchert),,TOR
+341,3,,Butler Free Throw 1 of 1 (19 PTS),CHI
+344,2,MISS Joseph 25' 3PT Jump Shot,,TOR
+345,4,,Brooks REBOUND (Off:0 Def:3),CHI
+346,6,DeRozan Personal Block Foul (P2.PN) (N.Buchert),,TOR
+347,3,,Butler Free Throw 1 of 2 (20 PTS),CHI
+349,8,SUB: Ross FOR Lowry,,TOR
+350,3,,Butler Free Throw 2 of 2 (21 PTS),CHI
+352,1,Patterson 24' 3PT Jump Shot (7 PTS) (DeRozan 3 AST),,TOR
+353,2,,MISS Butler 21' Pullup Jump Shot,CHI
+354,4,Ross REBOUND (Off:0 Def:1),,TOR
+355,1,Ross 24' 3PT Jump Shot (3 PTS) (DeRozan 4 AST),,TOR
+356,9,,Bulls Timeout: Regular (Reg.3 Short 1),
+360,1,,Snell 8' Driving Floating Jump Shot (5 PTS),CHI
+361,2,MISS Patterson 11' Step Back Jump Shot,,TOR
+362,4,,Brooks REBOUND (Off:0 Def:4),CHI
+363,2,,MISS Portis 6' Turnaround Bank Hook Shot,CHI
+364,4,Biyombo REBOUND (Off:2 Def:3),,TOR
+365,5,Joseph Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,TOR
+366,1,,Snell 4' Jump Shot (7 PTS) (Gasol 5 AST),CHI
+367,1,Joseph 5' Driving Floating Bank Jump Shot (11 PTS),,TOR
+369,1,,Butler 15' Pullup Jump Shot (23 PTS) (Gasol 6 AST),CHI
+370,2,MISS Ross 26' 3PT Jump Bank Shot,,TOR
+371,4,,Brooks REBOUND (Off:0 Def:5),CHI
+372,2,Ross BLOCK (1 BLK),MISS Snell 25' 3PT Pullup Jump Shot,CHI
+373,4,,Bulls Rebound,
+374,13,,,
+376,12,,,
+377,1,Scola 8' Turnaround Bank Hook Shot (15 PTS),,TOR
+378,1,,Gibson 18' Jump Shot (8 PTS) (Snell 1 AST),CHI
+379,2,MISS Scola 20' Jump Shot,,TOR
+380,4,,Portis REBOUND (Off:0 Def:5),CHI
+381,2,Ross BLOCK (2 BLK),MISS Butler 4' Driving Floating Jump Shot,CHI
+382,4,,Butler REBOUND (Off:1 Def:2),CHI
+383,2,,MISS Brooks 25' 3PT Jump Shot,CHI
+384,4,RAPTORS Rebound,,
+385,6,,Gibson L.B.FOUL (P1.T1) (G.Petraitis),CHI
+386,2,MISS Scola 1' Driving Layup,Portis BLOCK (1 BLK),TOR
+387,4,Scola REBOUND (Off:4 Def:0),,TOR
+388,2,MISS Scola 1' Layup,,TOR
+389,4,,Portis REBOUND (Off:0 Def:6),CHI
+390,1,,Portis 3' Layup (4 PTS) (Butler 3 AST),CHI
+392,2,MISS Joseph 2' Driving Layup,Gibson BLOCK (2 BLK),TOR
+393,4,RAPTORS Rebound,,
+394,1,Scola 17' Jump Shot (17 PTS) (Joseph 4 AST),,TOR
+395,5,,Portis 3 Second Violation Turnover (P1.T9),CHI
+396,1,Lowry 2' Driving Layup (15 PTS),,TOR
+397,6,,Portis S.FOUL (P3.T2) (N.Buchert),CHI
+398,3,Lowry Free Throw 1 of 1 (16 PTS),,TOR
+400,8,,SUB: Moore FOR Snell,CHI
+401,10,Jump Ball Ross vs. Butler: Tip to Patterson,,TOR
+402,5,Ross STEAL (2 STL),Butler Lost Ball Turnover (P3.T10),CHI
+404,2,MISS Lowry 3' Driving Floating Bank Jump Shot,,TOR
+405,4,,Gibson REBOUND (Off:2 Def:2),CHI
+407,5,Scola STEAL (2 STL),Moore Bad Pass Turnover (P1.T11),CHI
+408,1,Lowry 2' Running Layup (18 PTS) (Scola 2 AST),,TOR
+409,9,,Bulls Timeout: Regular (Reg.4 Short 1),
+411,8,,SUB: Mirotic FOR Portis,CHI
+412,6,Ross P.FOUL (P1.T1) (N.Buchert),,TOR
+414,2,Scola BLOCK (1 BLK),MISS Gibson 3' Layup,CHI
+415,4,,Brooks REBOUND (Off:1 Def:5),CHI
+417,1,,Butler 10' Turnaround Bank Shot (25 PTS),CHI
+418,1,Joseph 3' Driving Floating Bank Jump Shot (13 PTS),,TOR
+419,1,,Butler 1' Driving Layup (27 PTS),CHI
+420,5,Joseph Bad Pass Turnover (P2.T9),Mirotic STEAL (1 STL),TOR
+421,6,Joseph P.FOUL (P2.T2) (N.Buchert),,TOR
+422,8,,SUB: McDermott FOR Brooks,CHI
+423,2,Lowry BLOCK (1 BLK),MISS McDermott 2' Cutting Layup Shot,CHI
+424,4,Patterson REBOUND (Off:0 Def:5),,TOR
+425,1,Lowry 2' Driving Layup (20 PTS),,TOR
+426,6,Ross S.FOUL (P2.T3) (N.Buchert),,TOR
+427,3,,Butler Free Throw 1 of 2 (28 PTS),CHI
+429,3,,Butler Free Throw 2 of 2 (29 PTS),CHI
+431,6,,Moore P.FOUL (P1.T3) (R.Garretson),CHI
+433,1,Scola  3PT Jump Shot (20 PTS) (Lowry 10 AST),,TOR
+434,2,,MISS Butler 25' 3PT Jump Shot,CHI
+435,4,,Bulls Rebound,
+436,6,Scola L.B.FOUL (P3.T4) (N.Buchert),,TOR
+437,9,,,
+438,8,SUB: DeRozan FOR Ross,,TOR
+440,1,,Butler 2' Cutting Layup Shot (31 PTS) (Mirotic 1 AST),CHI
+441,2,MISS Lowry 20' Turnaround Jump Shot,,TOR
+442,4,,Gibson REBOUND (Off:2 Def:3),CHI
+443,1,,Mirotic 25' 3PT Jump Shot (15 PTS) (Butler 4 AST),CHI
+445,8,,SUB: Brooks FOR McDermott,CHI
+446,8,,SUB: Gasol FOR Gibson,CHI
+447,2,MISS Patterson  3PT Jump Shot,,TOR
+448,4,,Gasol REBOUND (Off:1 Def:10),CHI
+450,1,,Butler 14' Pullup Bank Shot (33 PTS),CHI
+451,2,MISS Joseph 25' 3PT Jump Shot,,TOR
+452,4,,Gasol REBOUND (Off:1 Def:11),CHI
+453,2,,MISS Mirotic  3PT Step Back Jump Shot,CHI
+454,4,Lowry REBOUND (Off:0 Def:5),,TOR
+455,2,MISS Scola 3' Jump Shot,Gasol BLOCK (3 BLK),TOR
+456,4,Scola REBOUND (Off:5 Def:0),,TOR
+457,1,Scola 2' Putback Layup (22 PTS),,TOR
+458,1,,Gasol 14' Jump Shot (18 PTS) (Butler 5 AST),CHI
+459,6,,Brooks P.FOUL (P3.T4) (G.Petraitis),CHI
+460,8,SUB: Carroll FOR Patterson,,TOR
+461,9,RAPTORS Timeout: Regular (Full 4 Short 0),,
+462,8,SUB: Valanciunas FOR Scola,,TOR
+464,2,MISS Lowry 4' Hook Shot,,TOR
+465,4,,Mirotic REBOUND (Off:1 Def:2),CHI
+466,1,,Butler 25' 3PT Pullup Jump Shot (36 PTS),CHI
+467,6,,Butler S.FOUL (P2.PN) (G.Petraitis),CHI
+468,3,DeRozan Free Throw 1 of 2 (23 PTS),,TOR
+470,3,DeRozan Free Throw 2 of 2 (24 PTS),,TOR
+472,6,DeRozan P.FOUL (P3.PN) (R.Garretson),,TOR
+473,3,,Mirotic Free Throw 1 of 2 (16 PTS),CHI
+475,3,,Mirotic Free Throw 2 of 2 (17 PTS),CHI
+477,6,,Butler P.FOUL (P3.PN) (G.Petraitis),CHI
+478,3,Valanciunas Free Throw 1 of 2 (5 PTS),,TOR
+480,3,Valanciunas Free Throw 2 of 2 (6 PTS),,TOR
+482,1,,Butler 7' Driving Floating Bank Jump Shot (38 PTS),CHI
+484,2,MISS Lowry 26' 3PT Pullup Jump Shot,,TOR
+485,4,,Butler REBOUND (Off:1 Def:3),CHI
+486,2,,MISS Butler 21' Jump Shot,CHI
+487,4,,Moore REBOUND (Off:1 Def:0),CHI
+488,1,,Moore 3' Jump Shot (4 PTS),CHI
+489,9,RAPTORS Timeout: Regular (Full 5 Short 0),,
+493,1,Lowry 16' Turnaround Fadeaway (22 PTS),,TOR
+494,9,,Bulls Timeout: Regular (Reg.5 Short 1),
+495,8,SUB: Biyombo FOR Valanciunas,,TOR
+498,1,,Butler  3PT Jump Shot (41 PTS),CHI
+499,18,,,
+501,9,RAPTORS Timeout: Short (Full 5 Short 1),,
+502,8,SUB: Patterson FOR Biyombo,,TOR
+503,8,,SUB: Snell FOR Mirotic,CHI
+504,8,,SUB: Gibson FOR Brooks,CHI
+505,2,MISS Lowry 1' Driving Layup,,TOR
+506,4,,Gasol REBOUND (Off:1 Def:12),CHI
+507,6,Carroll P.FOUL (P2.PN) (N.Buchert),,TOR
+508,3,,Gasol Free Throw 1 of 2 (19 PTS),CHI
+510,8,SUB: Valanciunas FOR Joseph,,TOR
+511,3,,MISS Gasol Free Throw 2 of 2,CHI
+513,4,Carroll REBOUND (Off:0 Def:3),,TOR
+514,9,RAPTORS Timeout: Short (Full 5 Short 2),,
+516,8,SUB: Ross FOR Patterson,,TOR
+518,2,MISS DeRozan 4' Driving Floating Jump Shot,Gasol BLOCK (4 BLK),TOR
+519,4,,Snell REBOUND (Off:0 Def:2),CHI
+520,6,Lowry P.FOUL (P1.PN) (R.Garretson),,TOR
+521,3,,MISS Gibson Free Throw 1 of 2,CHI
+522,4,,Bulls Rebound,
+523,3,,Gibson Free Throw 2 of 2 (9 PTS),CHI
+525,2,MISS Carroll 25' 3PT Pullup Jump Shot,,TOR
+526,4,Valanciunas REBOUND (Off:4 Def:5),,TOR
+527,1,Valanciunas  Putback Dunk (8 PTS),,TOR
+528,6,Lowry P.FOUL (P2.PN) (R.Garretson),,TOR
+530,3,,MISS Butler Free Throw 1 of 2,CHI
+531,4,,Bulls Rebound,
+532,3,,Butler Free Throw 2 of 2 (42 PTS),CHI
+534,2,MISS DeRozan 25' 3PT Turnaround Jump Shot,,TOR
+535,4,RAPTORS Rebound,,
+536,13,,,
