@@ -1,4 +1,4 @@
-# Final project
+# Basketball game prediction
 <div style="text-align: right">Suhwan Lee 20195188  </div>
 <br />
 
